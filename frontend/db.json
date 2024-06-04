@@ -1,0 +1,127 @@
+{
+  "feedbacks": [
+    {
+      "id": "1",
+      "fullname": "Thomas John",
+      "feedback": "The Amazing Products"
+    },
+    {
+      "id": "7061",
+      "formData": {
+        "fullname": "Parmilan",
+        "message": "The amazing products"
+      }
+    },
+    {
+      "id": "baeb",
+      "formData": {
+        "fullname": "Parmilan",
+        "message": "The amazing products"
+      }
+    },
+    {
+      "id": "76e3",
+      "formData": {
+        "fullname": "Parmilan",
+        "message": "The amazing products"
+      }
+    },
+    {
+      "id": "822c",
+      "formData": {
+        "fullname": "Parmilan",
+        "message": "The amazing products",
+        "name": "Parmila"
+      }
+    },
+    {
+      "id": "5af0",
+      "formData": {
+        "fullname": "Parmilan",
+        "message": "The amazing products",
+        "name": "Parmila",
+        "": "The amazing product"
+      }
+    },
+    {
+      "id": "91f8",
+      "formData": {
+        "fullname": "John Smith",
+        "message": "The amazing products"
+      }
+    },
+    {
+      "id": "dcb2",
+      "fullName": "Parmilan",
+      "message": "The amazing products"
+    },
+    {
+      "id": "8477",
+      "fullName": "Parmilan",
+      "message": "The amazing"
+    },
+    {
+      "id": "c039",
+      "fullName": "Jack",
+      "message": "Products are amazing "
+    },
+    {
+      "id": "ec06",
+      "fullName": "Jack",
+      "message": "Products are amazing "
+    },
+    {
+      "id": "4e2a",
+      "fullName": "tyry",
+      "message": "trg"
+    },
+    {
+      "id": "f046",
+      "fullName": "John Smith",
+      "message": "The amazing Website"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "productName": "Samsung Galaxy A22",
+      "description": "The amazing brand of the Galaxy A22",
+      "productPrice": "89000",
+      "productCount": 23,
+      "category": "phone"
+    },
+    {
+      "id": "ae66",
+      "productName": "Samsung TV 29E1",
+      "description": "The amazing brand of the Samsung",
+      "productPrice": "500000",
+      "productCount": "25",
+      "category": "Television",
+      "": "The amazing brand of the Samsung T"
+    },
+    {
+      "formData": {
+        "productName": "Samsung TV",
+        "description": "",
+        "productPrice": "",
+        "productCount": "",
+        "category": ""
+      },
+      "id": "724b",
+      "productName": "Samsung TV",
+      "": "Hello",
+      "productPrice": "200,000",
+      "productCount": "5",
+      "category": "Television",
+      "description": "Hello Amazing Product"
+    },
+    {
+      "id": "80d8",
+      "productName": "Iphone 14 pro max",
+      "description": "The amazing brand of the IPhone\n\n",
+      "productPrice": "500000",
+      "productCount": "50",
+      "category": "Phone"
+    }
+  ]
+}
